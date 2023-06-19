@@ -1,0 +1,7 @@
+alpha: initializing memory
+alpha: modifying memory...
+alpha: summing up results
+alpha: result is 52224000
+252
+127
+28
